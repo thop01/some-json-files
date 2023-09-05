@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Introductory Game",
+      "description": "Welcome to the Introductory Game! This game is designed to help you get started and familiarize yourself with the gameplay mechanics.",
+      "rules": [
+        "Rule 1: Each player takes turns rolling a dice.",
+        "Rule 2: Move your game piece forward the number of spaces indicated on the dice.",
+        "Rule 3: Follow the instructions on the game board for each space you land on.",
+        "Rule 4: The first player to reach the finish line wins the game.",
+        "Rule 5: Have fun and enjoy the game!"
+      ]
+    },
+    {
+      "title": "Strategy Game",
+      "description": "Get ready for the Strategy Game! This game challenges your tactical skills and decision-making abilities.",
+      "rules": [
+        "Rule 1: Each player starts with a set of game pieces.",
+        "Rule 2: Strategically position your game pieces on the board.",
+        "Rule 3: Plan your moves to outmaneuver your opponents and achieve your objectives.",
+        "Rule 4: Utilize special abilities or power-ups to gain an advantage.",
+        "Rule 5: The player with the best strategy and execution wins the game."
+      ]
+    },
+    {
+      "title": "Trivia Game",
+      "description": "Test your knowledge with the Trivia Game! Answer questions from various categories and see who knows the most.",
+      "rules": [
+        "Rule 1: Players take turns answering trivia questions.",
+        "Rule 2: Correct answers earn points or rewards.",
+        "Rule 3: Incorrect answers may result in penalties or missed opportunities.",
+        "Rule 4: The player with the highest score at the end of the game wins.",
+        "Rule 5: Expand your knowledge while having a great time!"
+      ]
+    }
+  ]

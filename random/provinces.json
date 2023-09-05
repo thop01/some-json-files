@@ -1,0 +1,86 @@
+[
+    {
+      "province": "Drenthe",
+      "capital": "Assen",
+      "population": 493682,
+      "surface": 2641,
+      "temperature": "8.5°C"
+    },
+    {
+      "province": "Flevoland",
+      "capital": "Lelystad",
+      "population": 416275,
+      "surface": 1416,
+      "temperature": "9.2°C"
+    },
+    {
+      "province": "Friesland",
+      "capital": "Leeuwarden",
+      "population": 649957,
+      "surface": 3315,
+      "temperature": "8.8°C"
+    },
+    {
+      "province": "Gelderland",
+      "capital": "Arnhem",
+      "population": 2073489,
+      "surface": 5133,
+      "temperature": "9.0°C"
+    },
+    {
+      "province": "Groningen",
+      "capital": "Groningen",
+      "population": 592658,
+      "surface": 2965,
+      "temperature": "8.6°C"
+    },
+    {
+      "province": "Limburg",
+      "capital": "Maastricht",
+      "population": 1119094,
+      "surface": 2209,
+      "temperature": "9.5°C"
+    },
+    {
+      "province": "Noord-Brabant",
+      "capital": "Den Bosch",
+      "population": 2530299,
+      "surface": 4992,
+      "temperature": "9.2°C"
+    },
+    {
+      "province": "Noord-Holland",
+      "capital": "Haarlem",
+      "population": 2871441,
+      "surface": 2675,
+      "temperature": "9.0°C"
+    },
+    {
+      "province": "Overijssel",
+      "capital": "Zwolle",
+      "population": 1165471,
+      "surface": 3429,
+      "temperature": "8.8°C"
+    },
+    {
+      "province": "Utrecht",
+      "capital": "Utrecht",
+      "population": 1343091,
+      "surface": 1386,
+      "temperature": "9.0°C"
+    },
+    {
+      "province": "Zeeland",
+      "capital": "Middelburg",
+      "population": 383689,
+      "surface": 1784,
+      "temperature": "9.3°C"
+    },
+    {
+      "province": "Zuid-Holland",
+      "capital": "Den Haag",
+      "population": 3702894,
+      "surface": 3398,
+      "temperature": "9.0°C"
+    }
+  ]

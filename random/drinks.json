@@ -1,0 +1,28 @@
+{
+    "drinks": [
+      {
+        "name": "Coffee",
+        "type": "Hot",
+        "origin": "Ethiopia",
+        "price": 2.5
+      },
+      {
+        "name": "Orange Juice",
+        "type": "Cold",
+        "origin": "Brazil",
+        "price": 3.0
+      },
+      {
+        "name": "Green Tea",
+        "type": "Hot",
+        "origin": "China",
+        "price": 2.0
+      },
+      {
+        "name": "Lemonade",
+        "type": "Cold",
+        "origin": "United States",
+        "price": 2.5
+      }
+    ]
+  }

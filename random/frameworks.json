@@ -1,0 +1,29 @@
+{
+    "frameworks": [
+      {
+        "name": "React",
+        "description": "React is a JavaScript library for building user interfaces. It allows you to create reusable UI components and provides efficient rendering and state management.",
+        "website": "https://reactjs.org/"
+      },
+      {
+        "name": "Angular",
+        "description": "Angular is a TypeScript-based open-source framework for building web applications. It provides a powerful set of features for developing complex, scalable, and maintainable applications.",
+        "website": "https://angular.io/"
+      },
+      {
+        "name": "Vue.js",
+        "description": "Vue.js is a progressive JavaScript framework for building user interfaces. It focuses on the view layer and offers simplicity, flexibility, and great performance.",
+        "website": "https://vuejs.org/"
+      },
+      {
+        "name": "Ember.js",
+        "description": "Ember.js is a JavaScript framework for building ambitious web applications. It provides conventions and best practices to help developers create scalable and maintainable code.",
+        "website": "https://emberjs.com/"
+      },
+      {
+        "name": "Backbone.js",
+        "description": "Backbone.js is a lightweight JavaScript library for building client-side applications. It provides a simple and organized structure for models, views, and collections.",
+        "website": "https://backbonejs.org/"
+      }
+    ]
+  }

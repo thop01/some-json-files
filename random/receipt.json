@@ -1,0 +1,28 @@
+{
+    "receipt": [
+      {
+        "name": "Smartphone",
+        "brand": "Apple",
+        "price": 999.99,
+        "features": ["Face ID", "Dual Camera", "5G Connectivity"]
+      },
+      {
+        "name": "Smartwatch",
+        "brand": "Samsung",
+        "price": 349.99,
+        "features": ["Heart Rate Monitor", "Fitness Tracking", "Bluetooth"]
+      },
+      {
+        "name": "Laptop",
+        "brand": "Dell",
+        "price": 1499.99,
+        "features": ["Intel Core i7 Processor", "16GB RAM", "SSD Storage"]
+      },
+      {
+        "name": "Virtual Reality Headset",
+        "brand": "Oculus",
+        "price": 399.99,
+        "features": ["Room-Scale Tracking", "Touch Controllers", "Built-in Audio"]
+      }
+    ]
+  }

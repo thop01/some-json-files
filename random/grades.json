@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Doe",
+    "grades": {
+      "Mathematics": 10,
+      "English": 10,
+      "Science": 10,
+      "History": 10,
+      "Art": 10
+    }
+  },
+  {
+    "name": "Jane Smith",
+    "grades": {
+      "Mathematics": 10,
+      "English": 10,
+      "Science": 8,
+      "History": 5,
+      "Art": 6
+    }
+  },
+  {
+    "name": "Alex Johnson",
+    "grades": {
+      "Mathematics": 8,
+      "English": 7,
+      "Science": 6,
+      "History": 8,
+      "Art": 8
+    }
+  }
+]

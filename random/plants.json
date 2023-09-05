@@ -1,0 +1,32 @@
+{
+    "plants": [
+      {
+        "name": "Rose",
+        "species": "Rosa",
+        "color": "Red",
+        "height": 24,
+        "price": 9.99
+      },
+      {
+        "name": "Sunflower",
+        "species": "Helianthus",
+        "color": "Yellow",
+        "height": 60,
+        "price": 6.99
+      },
+      {
+        "name": "Fern",
+        "species": "Polypodiopsida",
+        "color": "Green",
+        "height": 18,
+        "price": 12.99
+      },
+      {
+        "name": "Orchid",
+        "species": "Orchidaceae",
+        "color": "Purple",
+        "height": 12,
+        "price": 24.99
+      }
+    ]
+  }

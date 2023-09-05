@@ -1,0 +1,44 @@
+{
+    "questions": [
+      {
+        "question": "Wat is je favoriete boek?",
+        "category": "Persoonlijk"
+      },
+      {
+        "question": "Als je overal ter wereld naartoe zou kunnen reizen, waar zou je heen gaan?",
+        "category": "Reizen"
+      },
+      {
+        "question": "Wat is je all-time favoriete film?",
+        "category": "Entertainment"
+      },
+      {
+        "question": "Als je een superkracht zou kunnen hebben, welke zou dat dan zijn?",
+        "category": "Leuk"
+      },
+      {
+        "question": "Wat is je favoriete hobby of vrijetijdsbesteding?",
+        "category": "Persoonlijk"
+      },
+      {
+        "question": "Als je met een historisch figuur zou kunnen dineren, wie zou dat dan zijn?",
+        "category": "Geschiedenis"
+      },
+      {
+        "question": "Wat is je favoriete type keuken?",
+        "category": "Eten"
+      },
+      {
+        "question": "Als je een nieuwe vaardigheid zou kunnen leren, welke zou dat dan zijn?",
+        "category": "Vaardigheden"
+      },
+      {
+        "question": "Wat is je droombaan of beroep?",
+        "category": "Carrière"
+      },
+      {
+        "question": "Als je kon tijdreizen, zou je dan naar het verleden of de toekomst gaan?",
+        "category": "Tijd"
+      }
+    ]
+  }

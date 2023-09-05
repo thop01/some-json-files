@@ -1,0 +1,55 @@
+{
+    "highlights": [
+      {
+        "year": 2021,
+        "events": [
+          {
+            "title": "Scientific Breakthrough",
+            "description": "New discovery in quantum physics.",
+            "location": "Geneva, Switzerland",
+            "visitors": 500
+          },
+          {
+            "title": "Sports Championship",
+            "description": "Team XYZ wins the international tournament.",
+            "location": "Tokyo, Japan",
+            "visitors": 10000
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "events": [
+          {
+            "title": "Movie Release",
+            "description": "Highly anticipated movie hits theaters.",
+            "location": "Los Angeles, USA",
+            "visitors": 2000
+          },
+          {
+            "title": "Environmental Summit",
+            "description": "Global leaders discuss climate change solutions.",
+            "location": "Paris, France",
+            "visitors": 500
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "events": [
+          {
+            "title": "Space Exploration Milestone",
+            "description": "Successful manned mission to Mars.",
+            "location": "Cape Canaveral, USA",
+            "visitors": 100
+          },
+          {
+            "title": "Art Exhibition",
+            "description": "Renowned artists showcase their latest works.",
+            "location": "New York City, USA",
+            "visitors": 1500
+          }
+        ]
+      }
+    ]
+  }

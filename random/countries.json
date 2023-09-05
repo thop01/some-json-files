@@ -1,0 +1,42 @@
+[
+    {
+      "country": "United States",
+      "capital": "Washington, D.C."
+    },
+    {
+      "country": "Canada",
+      "capital": "Ottawa"
+    },
+    {
+      "country": "United Kingdom",
+      "capital": "London"
+    },
+    {
+      "country": "France",
+      "capital": "Paris"
+    },
+    {
+      "country": "Germany",
+      "capital": "Berlin"
+    },
+    {
+      "country": "Australia",
+      "capital": "Canberra"
+    },
+    {
+      "country": "India",
+      "capital": "New Delhi"
+    },
+    {
+      "country": "China",
+      "capital": "Beijing"
+    },
+    {
+      "country": "Brazil",
+      "capital": "Brasília"
+    },
+    {
+      "country": "South Africa",
+      "capital": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)"
+    }
+  ]

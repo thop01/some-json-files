@@ -1,0 +1,40 @@
+{
+    "applicatie": "Dexter",
+    "gebruikersverhalen": [
+      {
+        "verhaal": "Als gebruiker wil ik een account kunnen registreren, zodat ik toegang heb tot de applicatie.",
+        "prioriteit": "Hoog",
+        "punten": 5
+      },
+      {
+        "verhaal": "Als gebruiker wil ik kunnen inloggen op mijn account, zodat ik toegang heb tot mijn gepersonaliseerde inhoud.",
+        "prioriteit": "Hoog",
+        "punten": 3
+      },
+      {
+        "verhaal": "Als gebruiker wil ik informatie kunnen zoeken, zodat ik snel relevante resultaten kan vinden.",
+        "prioriteit": "Gemiddeld",
+        "punten": 8
+      },
+      {
+        "verhaal": "Als gebruiker wil ik taken kunnen maken en beheren, zodat ik georganiseerd kan blijven.",
+        "prioriteit": "Gemiddeld",
+        "punten": 5
+      },
+      {
+        "verhaal": "Als gebruiker wil ik mijn voortgang kunnen bijhouden en doelen kunnen stellen, zodat ik mijn prestaties kan meten.",
+        "prioriteit": "Laag",
+        "punten": 3
+      },
+      {
+        "verhaal": "Als gebruiker wil ik kunnen samenwerken met anderen aan gedeelde projecten, zodat we effectief kunnen samenwerken.",
+        "prioriteit": "Laag",
+        "punten": 5
+      },
+      {
+        "verhaal": "Als gebruiker wil ik meldingen ontvangen over belangrijke updates en deadlines, zodat ik op de hoogte blijf.",
+        "prioriteit": "Laag",
+        "punten": 2
+      }
+    ]
+  }
